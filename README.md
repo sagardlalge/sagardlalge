@@ -41,7 +41,7 @@ Welcome to my GitHub profile! I'm a DevOps Engineer with a passion for building 
 - Ocean Practitioner Exam
 
 ## 📄 Resume
-[Download My Resume](Sagar_Lalge_Devops.pdf)
+[Download My Resume](https://github.com/sagardlalge/Devops_Resume.git)
 
 ## 🔗 Connect with Me
 - **GitHub**: [github.com/sagardlalge](https://github.com/sagardlalge)
