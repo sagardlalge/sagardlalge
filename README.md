@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a DevOps Engineer with a passion for building 
 
 ## ✨ About Me
 - **Current Role**: Senior Software Engineer
-- **Experience**: 3.2 years in DevOps, AWS, and financial data management
+- **Experience**: 3.4 years in DevOps, AWS, and financial data management
 - **Certifications**: AWS Solution Architect Associate, Agile Software Development,Ocean Certified
 - **Education**: Bachelor of Engineering (BE)
 - **Location**: Pune, Maharashtra, India
